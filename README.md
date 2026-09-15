@@ -1001,10 +1001,10 @@ The notebook frames the project around questions including:
 
 ## 33. Citation / Dataset Attribution
 
-The notebook does not provide a canonical external dataset URL or formal citation block. Before publishing this repository publicly, add the exact dataset citation and source URL used by the project, together with the required license/attribution information.
+The notebook does not has citations.
 
 ---
 
 ## License
 
-No project license is specified in the notebook. Add a license file only after deciding the appropriate licensing terms for the source dataset, project code, and any third-party model components.
+No project license is specified.
