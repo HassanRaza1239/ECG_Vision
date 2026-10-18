@@ -70,13 +70,8 @@ Feature fusion     Standalone models
 
 ### Dataset source
 
-The notebook uses the ECG dataset through a **local `ECG_DATA` directory**. The notebook explicitly does not use Google Drive as the active processed-dataset source.
-
-Typical project path used in the notebook:
-
-```text
-/home/hassan_raza/Downloads/ECG/ECG_DATA
-```
+Dataset link: https://www.kaggle.com/datasets/kanishkarathore1604/ecg-image
+Dataset name: ECG Images .
 
 The notebook does **not record an external dataset URL**, so this README does not invent one. If an official dataset URL is required for publication or submission, it should be added after verifying the exact source used by the project.
 
