@@ -70,10 +70,8 @@ Feature fusion     Standalone models
 
 ### Dataset source
 
-Dataset link: https://www.kaggle.com/datasets/kanishkarathore1604/ecg-image
-Dataset name: ECG Images .
-
-The notebook does **not record an external dataset URL**, so this README does not invent one. If an official dataset URL is required for publication or submission, it should be added after verifying the exact source used by the project.
+## Dataset
+ECG-Vision uses the [ECG Image Dataset from Kaggle](https://www.kaggle.com/datasets/kanishkarathore1604/ecg-image), containing 3,951 ECG images across four classes: Myocardial Infarction, History of MI, Abnormal Heartbeat, and Normal. The dataset includes 3,023 training images and 928 test images for developing and evaluating our VGG and ConvNeXt models.
 
 ### Four classes
 
